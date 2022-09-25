@@ -29,9 +29,9 @@ const routes = [
 	},
 	{
 		id: 1,
-		label: "Feature Two",
-		route: "/FeatureTwo",
-		ariaLabel: "Feature Two Link",
+		label: "Development Basics",
+		route: "/DevelopmentBasics",
+		ariaLabel: "Development Basics Link",
 	},
 ];
 
@@ -137,7 +137,6 @@ export const HeaderBar = () => {
 				<Divider />
 				<Navigation routes={routes} />
 				<Divider />
-				<Navigation routes={routes} />
 			</Drawer>
 		</Box>
 	);

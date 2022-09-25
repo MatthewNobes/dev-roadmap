@@ -1,5 +1,5 @@
 import "./style/App.css";
-import HeaderBar from "./Components/HeaderBar";
+import HeaderBar from "./components/HeaderBar";
 
 const App = () => (
 	<div className="App">
