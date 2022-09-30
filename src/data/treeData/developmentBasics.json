@@ -1,0 +1,23 @@
+{
+	"name": "Software Development",
+	"children": [
+		{
+			"name": "Git",
+			"attributes": {
+				"department": "Production"
+			}
+		},
+		{
+			"name": "VS Code",
+			"attributes": {
+				"department": "Production"
+			}
+		},
+		{
+			"name": "Markdown",
+			"attributes": {
+				"department": "Production"
+			}
+		}
+	]
+}
